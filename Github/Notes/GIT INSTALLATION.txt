@@ -1,9 +1,0 @@
-winget install --id Git.Git -e --source winget --silent
-
-
-
-
-
-SHORTER WAY 1 Line, 
-winget install Git.Git
-
